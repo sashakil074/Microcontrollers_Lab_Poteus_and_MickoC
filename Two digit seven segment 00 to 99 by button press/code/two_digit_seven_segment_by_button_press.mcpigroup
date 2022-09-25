@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\..\Microcontroller Lab Assignment\Problem1\Problem1 Code\Problem_1_code.mcppi
+Project1=two_digit_seven_segment_by_button_press.mcppi
+[ActiveProject]
+Index=1

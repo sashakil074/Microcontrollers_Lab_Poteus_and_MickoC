@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"I:\Microcontroller lab practice\PWM based motor control speed increase\code\pwm_based_motor_control_speed_increase_decrease.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"I:\Microcontroller lab practice\PWM based motor control speed increase\code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "pwm_based_motor_control_speed_increase_decrease.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_PWM_c21.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	pwm_based_motor_control_speed_increase_decrease.c
+diagnostics: 64	123	Compiled Successfully	pwm_based_motor_control_speed_increase_decrease.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 8 (2%)  Free RAM (bytes): 344 (98%)	Used RAM (bytes): 8 (2%)  Free RAM (bytes): 344 (98%)
+hint: 0	1144	Used ROM (program words): 231 (3%)  Free ROM (program words): 7961 (97%)	Used ROM (program words): 231 (3%)  Free ROM (program words): 7961 (97%)
+diagnostics: 0	125	Project Linked Successfully	pwm_based_motor_control_speed_increase_decrease.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'pwm_based_motor_control_speed_increase_decrease.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 19 Sep 2022, 13:43:02	pwm_based_motor_control_speed_increase_decrease.mcppi

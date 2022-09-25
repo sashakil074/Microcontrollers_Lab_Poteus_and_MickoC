@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"I:\Microcontroller lab practice\Four digit seven segment interfacing displaying a message\four digit 7 segment interfacing code\four_digit_seven_segment_interfacing.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"I:\Microcontroller lab practice\Four digit seven segment interfacing displaying a message\four digit 7 segment interfacing code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "four_digit_seven_segment_interfacing.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	four_digit_seven_segment_interfacing.c
+diagnostics: 35	123	Compiled Successfully	four_digit_seven_segment_interfacing.c
+hint: 5	1164	Variable 'i' has been eliminated by optimizer	four_digit_seven_segment_interfacing.c
+hint: 5	1164	Variable 'j' has been eliminated by optimizer	four_digit_seven_segment_interfacing.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 80 (1%)  Free ROM (program words): 8112 (99%)	Used ROM (program words): 80 (1%)  Free ROM (program words): 8112 (99%)
+diagnostics: 0	125	Project Linked Successfully	four_digit_seven_segment_interfacing.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'four_digit_seven_segment_interfacing.mcppi' completed: 218 ms	 
+diagnostics: 0	103	Finished successfully: 18 Sep 2022, 22:26:04	four_digit_seven_segment_interfacing.mcppi
